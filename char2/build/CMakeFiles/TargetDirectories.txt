@@ -1,0 +1,3 @@
+/home/mr/interest/CSAPP/char2/build/CMakeFiles/rebuild_cache.dir
+/home/mr/interest/CSAPP/char2/build/CMakeFiles/show_bytes.dir
+/home/mr/interest/CSAPP/char2/build/CMakeFiles/edit_cache.dir
